@@ -1,4 +1,3 @@
-[![][travis-badge]][travis-link]
 ![][license-badge]
 
 <div align="center">
@@ -46,14 +45,13 @@ $ fls
 
 # License
 
-[MIT][mit] © [Tom Hensel][author] et [al][contributors]
+[MIT][mit] © [Tom Hensel][author], [Roman Inflianskas][author1] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/{{USER}}
+[author]:         https://github.com/gretel
+[author1]:        https://github.com/rominf
 [contributors]:   https://github.com/gretel/pkg-fzf/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
-[travis-badge]:   http://img.shields.io/travis/{{USER}}/fzf.svg?style=flat-square
-[travis-link]:    https://travis-ci.org/gretel/fzf
